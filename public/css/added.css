@@ -1,0 +1,10 @@
+/*span.select2.select2-container.select2-container--default{*/
+/*    width: 200px !important;*/
+/*}*/
+.select_ {
+    line-height: 1em;
+    font-size: 14px;
+}
+.visit_report_data .dataTables_info ,#outdoor_data .dataTables_info{display:none;}
+.visit_report_data .dataTables_paginate , #outdoor_data .dataTables_paginate ,.clients_result .dataTables_paginate{display:none;}
+#load{position: fixed !important;right: 50%!important;top: 50% !important;width: 50%!important;height: 50%!important;z-index: 999!important;}
